@@ -1,4 +1,4 @@
-Perfect 👍 — based on your **Hotel Management System** website (built with **HTML, CSS, and JavaScript**), here’s your **complete `README.md`** in the same professional format as the AI Cover Letter Generator one — with a **clickable Table of Contents**, **modern Markdown styling**, and **GitHub-ready layout** ✅
+
 
 ---
 
@@ -132,4 +132,5 @@ Hotel-Management-System/
 ⭐ *If you like this project, consider giving it a star on GitHub!*
 
 ```
+
 
